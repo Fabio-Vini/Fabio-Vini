@@ -1,3 +1,5 @@
+![logo](https://github.com/Fabio-Vini/Fabio-Vini/blob/main/banner.webp)
+
 <h1 align="center">Hi 👋, I'm Fabio Vinicius</h1>
 <h3 align="center">JR frontend developer from Brazil</h3>
 
