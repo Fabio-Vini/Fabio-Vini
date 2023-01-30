@@ -1,4 +1,4 @@
-![logo](https://github.com/Fabio-Vini/Fabio-Vini/blob/main/BANNER.png)
+![logo](https://github.com/Fabio-Vini/Fabio-Vini/blob/main/banner.png)
 
 <h1 align="center">Técnico em Desenvolvimento de Sistemas</h1>
 <h3 align="center">JR frontend developer from Brazil</h3>
