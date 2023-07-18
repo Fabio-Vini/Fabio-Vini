@@ -1,7 +1,7 @@
 ![logo](https://github.com/Fabio-Vini/Fabio-Vini/blob/main/banner.png)
 
 <h1 align="center">Técnico em Desenvolvimento de Sistemas</h1>
-<h3 align="center">JR frontend developer from Brazil</h3>
+<h3 align="center">Novice Developer from Brazil</h3>
 
 <a href="https://github.com/Fabio-Vini">
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Vini&hide=html&layout=compact=true&theme=radical"/>
@@ -34,6 +34,7 @@ Gosto de resolver problemas utilizando a programação.
 Software Developer :computer:
 
 ## ETEC DE ITANHAÉM - (2021-2022)
+## ATUALMENTE CURSANDO FACULDADE - ENG. DE CONTROLE E AUTOMAÇÃO 
   
 
  
