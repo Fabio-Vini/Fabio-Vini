@@ -3,12 +3,12 @@
 <h1 align="center">Técnico em Desenvolvimento de Sistemas</h1>
 <h3 align="center">Novice Developer from Brazil</h3>
 
-<a href="https://github.com/Fabio-Vini">
+<!--<a href="https://github.com/Fabio-Vini">
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Vini&hide=html&layout=compact=true&theme=radical"/>
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Vini&theme=radical"/>
-</div>
-<!--[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Vini&hide=html&layout=compact=true&theme=radical)](https://github.com/Fabio-Vini/)
-[![card](https://github-readme-stats.vercel.app/api?username=Fabio-Vini&theme=radical)](https://github.com/FabioNeves28/)-->
+</div>-->
+
+[![card](https://github-readme-stats.vercel.app/api?username=Fabio-Vini&theme=radical)](https://github.com/FabioNeves28/)
 
 
 <a href="https://github.com/Fabio-Vini"> 
@@ -41,8 +41,6 @@ Software Developer :computer:
 ##
 
 <div>
- <a href="https://api.whatsapp.com/send?phone=5513991263968&text=Ol%C3%A1!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
- <a href="https://www.instagram.com/binho.vn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <a href="mailto:fabinicius10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bn2uvNG4ZRUesgJ%2Fl8h2Q0Q%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
