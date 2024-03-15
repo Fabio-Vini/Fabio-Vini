@@ -1,4 +1,4 @@
-![logo](https://github.com/Fabio-Vini/Fabio-Vini/blob/main/BANNER.png)
+![logo](https://github.com/Fabio-Vini/Fabio-Vini/blob/main/BANNER2.png)
 
 <p align="center">I solve problems using the practicality of technology <br><br> I was always curious when it came to technology and its tools, the way everything works and evolves, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. I have skills for Front-End, but I am focusing on Back-End a lot, with no experience in the market, yet I am a graduate in Systems Development.</p>&nbsp;
 
